@@ -10,4 +10,5 @@ const mod = num3 % num4
 
 const max = Math.max(11,14,16,20)
 
-const random = 4
+
+let random = Math.ceil(Math.random()*10)
